@@ -5,9 +5,6 @@ Created on Sun Apr 13 17:46:10 2025
 
 @author: shayannikkar
 """
-import os
-os.chdir("/Users/shayannikkar/Desktop/Qmul/Projects/Pair trading")
-
 import numpy as np
 np.random.seed(42)
 
